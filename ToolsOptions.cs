@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace StarWarsCopilot;
+namespace StarWarsMCPServer;
 
 public static class ToolsOptions
 {
